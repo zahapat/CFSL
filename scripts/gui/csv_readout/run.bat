@@ -1,0 +1,1 @@
+.\build\Release\csv_readout.exe -v 1 -r 2 -t 3
